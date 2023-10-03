@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: eNno
-Template URL: https://bootstrapmade.com/enno-free-simple-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to Onus IT Solution Github
+Author: Believe Onus
+License: https://believeonus.github.io/believeonus/
